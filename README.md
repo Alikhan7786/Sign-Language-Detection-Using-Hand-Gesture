@@ -41,4 +41,4 @@ The predicted output is displayed as on-screen text. Optionally, the text is con
 
 **Tools:** Jupyter Notebook / PyCharm / VS Code
 
-Optional: Pyttsx3 / gTTS (for text-to-speech conversion)
+**Optional:** Pyttsx3 / gTTS (for text-to-speech conversion)
